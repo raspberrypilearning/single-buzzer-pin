@@ -1,4 +1,4 @@
-Import Speaker from the picozero library then set the pins for a buzzer, use the following code:
+Importeer Speaker uit de picozero-bibliotheek en stel vervolgens de pinnen in voor een zoemer, gebruik de volgende code:
 
 --- code ---
 ---
