@@ -1,4 +1,4 @@
-Import Speaker from the picozero library then set the pins for a buzzer, use the following code:
+Importe Speaker de la bibliothèque picozero puis définis les broches pour un buzzer, utilise le code suivant :
 
 --- code ---
 ---
