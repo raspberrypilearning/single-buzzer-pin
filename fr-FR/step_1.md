@@ -10,5 +10,5 @@ line_highlights:
 ---
 from picozero import Speaker
 
-hautparleur = Speaker(5)
+haut_parleur = Speaker(5)
 --- /code ---
