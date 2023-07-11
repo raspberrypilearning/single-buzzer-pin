@@ -1,0 +1,10 @@
+
+title: Définir les broches pour un seul buzzer
+hero_image: images/banner.png
+description: Comment définir les broches pour un seul buzzer sur un Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-15"
+steps:
+  - title: Définir les broches pour un seul buzzer
